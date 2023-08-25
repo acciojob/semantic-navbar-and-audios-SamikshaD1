@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+nav>ul{
+	display:flex;
+	flex-direction:rows;
+	gap:20px;
+}
